@@ -1,4 +1,19 @@
-# learn-python
+## Learn Python
+
+Python is one of the most popular and beginner-friendly programming languages in the world.  
+It is widely used across domains such as:  
+
+- **Web Development** (Django, FastAPI, Flask)  
+- **Data Science & Machine Learning** (NumPy, Pandas, TensorFlow, PyTorch)  
+- **Automation & Scripting** (system tasks, APIs, workflows)  
+- **Software Engineering** (backend systems, microservices)  
+
+In 2024, Python became GitHub’s most-used programming language, surpassing JavaScript. [learn-more](https://github.blog/news-insights/octoverse/octoverse-2024/)
+
+<p align="center">
+  <img src="docs/images/github-2024-top-programming-languages.png" alt="why-python" height="500px" />
+</p>
+
 
 ## Python Roadmap
 
